@@ -32,7 +32,9 @@ This repository contains an interactive Power BI dashboard designed to provide i
 ```
 
 ## Screenshots
-(Add screenshots of your dashboard here to showcase its visual appeal.)
+## Screenshots
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
