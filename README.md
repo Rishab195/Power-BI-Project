@@ -33,7 +33,7 @@ This repository contains an interactive Power BI dashboard designed to provide i
 
 ## Screenshots
 ## Screenshots
-!([screenshots/dashboard_overview.png](https://github.com/Rishab195/Power-BI-Project/blob/main/Screenshot%202025-03-26%20182726.png))
+![Dashboard Screenshot](Screenshot%202025-03-26%20182726.png)
 
 
 ## License
